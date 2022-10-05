@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Akshayone8/joke-generator/static/css/main.31d6cfe0.css",
+    "main.js": "/Akshayone8/joke-generator/static/js/main.2ebe6a7d.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/Akshayone8/joke-generator/static/js/787.3bf0dcc2.chunk.js",
+    "index.html": "/Akshayone8/joke-generator/index.html",
+    "main.2ebe6a7d.js.map": "/Akshayone8/joke-generator/static/js/main.2ebe6a7d.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/Akshayone8/joke-generator/static/js/787.3bf0dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2ebe6a7d.js"
+  ]
+}
